@@ -27,5 +27,5 @@
 
 #### Header Info:
 ```
-<img src="/header.jpg">
+<img src="/header.JPG">
 ```
