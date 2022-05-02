@@ -1,9 +1,0 @@
-[
-  {"active": 7803, "confirmed": 7803, "county": "New Haven", "state": "Connecticut", "recovered": 200},
-  {"active": 7803, "confirmed": 7803, "county": "Bridgeport", "state": "Connecticut", "recovered": 200},
-  {"active": 7803, "confirmed": 7803, "county": "Hartford", "state": "Connecticut", "recovered": 200},
-  {"active": 7803, "confirmed": 7803, "county": "westHaven", "state": "Connecticut", "recovered": 200},
-  {"active": 7803, "confirmed": 7803, "county": "Farefield", "state": "Connecticut", "recovered": 200},
-  {"active": 7803, "confirmed": 7803, "county": "Hamden", "state": "Connecticut", "recovered": 200},
-  {"active": 7803, "confirmed": 7803, "county": "Newyark", "state": "New york", "recovered": 200}
-]
